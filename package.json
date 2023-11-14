@@ -1,0 +1,11 @@
+{
+  "name": "tsx-source-maps-parse-error-repro",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsx src/index.ts"
+  },
+  "dependencies": {
+    "tsx": "^4.1.2"
+  }
+}
